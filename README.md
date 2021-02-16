@@ -16,3 +16,4 @@ Esta é uma tela de login que utilizou-se de HTML, CSS e possui validação Java
 ## 👩🏽‍💻 Demo:
 Para conferir como ficou acesse [Github Pages](https://palomavila.github.io/form-js/).
 
+<p align="center">Made by Paloma ➰</p>
